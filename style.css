@@ -1,0 +1,418 @@
+.yutub{
+    display: flex;
+    border: 1px solid lightgreen;
+    background-color:gainsboro;
+    height: 60px;
+}
+.helo{
+    margin-top: 15px;
+    font-size:15px;
+ margin-left: 800px;
+}
+.hello{
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.old{
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.princes{
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.ozod{
+    margin-top: 25px;
+    margin-left: 30px;
+    color: green;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.iyi{
+    display: flex;
+}
+.lazgi{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.dropdown{
+    margin-left: 30px;
+    margin-top: 20px;
+    border:1px solid white;
+    background-color: white;
+}
+.porter{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.partret{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.janr{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.hey{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.fa-magnifying-glass{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.fa-user{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.fa-cart-shopping{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 20px;    
+}
+.shox{
+    text-align: center;
+    margin-top: 200px;
+}
+.xya{
+    margin-top: 50px;
+    display: flex;
+}
+.dver{
+margin-left: 150px;
+}
+.kuhnya{
+margin-left:250px;  
+}
+.fasad{
+margin-left: 250px;
+}
+.plintus{
+    margin-left: 200px;
+}
+.xya1{
+    display: flex;
+}
+.dver1{
+    margin-top: 20px;
+    width:200px;
+    height:200px;
+    margin-left: 100px;
+}
+.kuhnya1{
+    margin-top: 20px;
+    width:200px;
+    height:200px;
+    margin-left: 150px;
+}
+.fasad1{
+    width:200px;
+    height:200px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.plintus1{
+    width:200px;
+    height:200px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.dost{
+    margin-top: 100px;
+    text-align: center;
+}
+.servid{
+    border:1px solid grey;
+    border-radius:25px;
+    width: 320px;
+    height:450px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.adriat{
+    font-size:20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.tiyt{
+    font-size: 20px;
+    text-align: center;
+}
+.servid1{
+    border:1px solid grey;
+    border-radius:25px;
+    width: 320px;
+    height:450px;
+    margin-left: 350px;
+    margin-top: -450px;
+}
+.adriat1{
+    font-size:20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.tiyt1{
+    font-size:20px;
+    text-align: center;
+}
+.lorem1{
+    font-size:20px;
+    text-align: center;
+}
+.servid2{
+    border:1px solid grey;
+    border-radius:25px;
+    width: 320px;
+    height:450px;
+    margin-left: 690px;
+    margin-top: -450px;
+}
+.adriat2{
+    font-size:20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.tiyt2{
+    font-size:20px;
+    text-align: center;
+}
+.lorem2{
+    font-size:20px;
+    text-align: center;
+}
+.servid3{
+    border:1px solid grey;
+    border-radius:25px;
+    width: 320px;
+    height:450px;
+    margin-left: 1020px;
+    margin-top: -450px;
+}
+.adriat3{
+    font-size:20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.tiyt3{
+    font-size:20px;
+    text-align: center;
+}
+.kumush{
+    text-align:center;
+    margin-top: 100px;
+}
+.iu{
+    margin-top: 50px;
+    display: flex;
+}
+.lof{
+    margin-top: 100px;
+    display: flex;
+}
+.syuivng{
+    margin-left:20px;
+    margin-top: 30px;
+    width:600px;
+}
+.huru{
+    width: 750px;
+    margin-top:-150px;
+    margin-left: 20px;
+}
+.podrobne{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.dedhasan{
+    margin-left:200px;
+    width:600px;
+}
+.dedhusan{
+    margin-left: -300px;
+}
+.kuhnya4{
+    border: 1px solid bisque;
+    background-color:white;
+    margin-top: -250px;
+    width:350px;
+    padding-left: 40px;
+    height: 200px; 
+    opacity: 0.8;
+}
+.seven1{
+    margin-top: -90px;
+    background-color:green;
+    color:white;
+    opacity: 0.8;
+    border-radius:10px;
+    width:250px;
+    padding:10px;
+    font-size: 20px;
+    margin-left: 40px; 
+    border: 1px solid green;
+}
+.sendi{
+    margin-top: 300px;
+    text-align:center;
+}
+.pokupatel{
+    margin-top: 100px;
+    margin-left: 30px;
+    width:390px;
+}
+.der{
+    border-radius:50%;
+    height:50px;
+    margin-top: 50px;
+    margin-left: 30px;
+    border:1px solid black;
+}
+.spasibo{
+    margin-left: 480px;
+    margin-top: -465px;
+    width:500px;
+}
+.der1{
+    margin-top: 50px;
+    border-radius:50%;
+    height:50px;
+    margin-left:480px;
+    border:1px solid black;
+}
+.der2{
+    border-radius:50%;
+    height:50px;
+    margin-top:30px;
+    margin-left:1000px;
+    border:1px solid black;
+}
+.spasibo1{
+    margin-left: 1000px;
+    margin-top: -370px;
+    width:300px;
+}
+.bunny{
+    text-align:center;
+    margin-top: 100px;
+}
+.frenk{
+    margin-top: 50px;
+    display: flex;
+}
+.yuga{
+    margin-top: 100px;
+    font-size: 30px; 
+    display: flex;
+}
+.jik{
+    display: flex;
+}
+.jiki{
+    display: flex;
+}
+.fabrika{
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: 10px;
+}
+.dostavka{
+    font-size:20px;
+    margin-left: 230px;
+    margin-top: 20px;
+}
+.gol{
+    display:flex;
+}
+.tovar{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.klas{
+    width:100px;
+    font-size:20px;
+    margin-left: 100px;
+}
+.istoriya{
+    font-size:20px;
+    margin-top: 10px;
+    margin-left: 110px;
+}
+.politika{
+    font-size:20px;
+    margin-left: 230px;
+    margin-top: 10px;
+}
+.karta{
+    font-size:20px;
+    margin-left: 420px;
+    margin-top: -30px;
+}
+.zakladka{
+    font-size:20px;
+    margin-left: 870px;
+    margin-top: -50px;
+}
+.nomer{
+    font-size:20px;
+    width:200px;
+    margin-left: 1100px;
+    margin-top: -60px;
+}
+.bezopasnost{
+    font-size:20px;
+    width:200px;
+    margin-left: 230px;
+    margin-top: -0px;
+    margin-top: 25px;
+}
+.jeylan{
+    font-size:20px;
+    width:200px;
+    margin-left: 660px;
+    margin-top: -70px;
+}
+.novosti{
+    font-size:20px;
+    width:200px;
+    margin-left: 870px;
+    margin-top: -5px;
+}
+.info{
+    font-size:20px;
+    width:200px;
+    margin-left:1100px;
+    margin-top: -30px;
+}
+.info1{
+    display: flex;
+}
+.usloviya{
+    font-size:20px;
+    width:200px;
+    margin-left: 230px;
+    margin-top: -25px;
+    margin-top: 25px;
+}
+.skidka{
+    font-size:20px;
+    width:200px;
+    margin-left: 230px;
+    margin-top: -30px;
+}
+.jiyu{
+    text-align: center;
+    margin-top:-10px;
+}
+.ht{
+    margin-top: 100px;
+}
